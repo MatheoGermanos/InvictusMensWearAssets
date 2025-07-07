@@ -7,17 +7,17 @@
     "home": {
         "carousel": [
             {
-                "src": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/assets/cropped-Carousel-Image.jpg",
+                "src": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/cropped-Carousel-Image.jpg",
                 "alt": "Something",
                 "title": "Something"
             },
             {
-                "src": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/assets/cropped-Carousel-Image.jpg",
+                "src": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/cropped-Carousel-Image.jpg",
                 "alt": "Something",
                 "title": "Something"
             },
             {
-                "src": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/assets/cropped-Carousel-Image.jpg",
+                "src": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/cropped-Carousel-Image.jpg",
                 "alt": "Something",
                 "title": "Something"
             }
