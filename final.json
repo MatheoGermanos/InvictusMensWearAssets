@@ -1,0 +1,91 @@
+{
+    "Logo": {
+        "src": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/assets/home-banner.jpg",
+        "alt": "Invictus Men's Wear",
+        "title": "Main Banner"
+    },
+    "home": {
+        "carousel": [
+            {
+                "src": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/assets/cropped-Carousel-Image.jpg",
+                "alt": "Something",
+                "title": "Something"
+            },
+            {
+                "src": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/assets/cropped-Carousel-Image.jpg",
+                "alt": "Something",
+                "title": "Something"
+            },
+            {
+                "src": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/assets/cropped-Carousel-Image.jpg",
+                "alt": "Something",
+                "title": "Something"
+            }
+        ],
+        "boxes": [
+            {
+                "src": "https://picsum.photos/id/1015/600/400",
+                "alt": "Box 1 Image",
+                "title": "Box 1"
+            },
+            {
+                "src": "https://picsum.photos/id/1018/1200/400",
+                "alt": "Box 2 Image",
+                "title": "Box 2"
+            },
+            {
+                "src": "https://picsum.photos/id/1016/600/400",
+                "alt": "Box 3 Image",
+                "title": "Box 3"
+            }
+        ],
+        "others": [
+            {
+                "src": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/assets/other1.jpg",
+                "alt": "Other Image 1",
+                "title": "Other 1"
+            }
+        ]
+    },
+    "products": [
+        {
+            "src": "https://raw.githubusercontent.com/your-username/your-repo/main/assets/products/jacket.jpg",
+            "alt": "Black Jacket",
+            "title": "Black Jacket"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/your-username/your-repo/main/assets/products/shoes.jpg",
+            "alt": "Brown Shoes",
+            "title": "Brown Shoes"
+        }
+    ],
+    "about": [
+        {
+            "src": "https://raw.githubusercontent.com/your-username/your-repo/main/assets/about/team.jpg",
+            "alt": "Our Team",
+            "title": "Meet the Team"
+        }
+    ],
+    "Social Media": [
+        {
+            "src": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/refs/heads/master/Facebook.svg",
+            "alt": "Facebook",
+            "title": "Facebook"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/refs/heads/master/instagram.svg",
+            "alt": "Instagram",
+            "title": "Instagram"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/refs/heads/master/pintrest.svg",
+            "alt": "Pintrest",
+            "title": "Pintrest"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/refs/heads/master/tiktok.svg",
+            "alt": "Tiktok",
+            "title": "Tiktok"
+        }
+    ]
+}
