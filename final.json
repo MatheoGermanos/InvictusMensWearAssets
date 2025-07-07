@@ -66,14 +66,50 @@
     },
     "products": [
         {
-            "src": "https://raw.githubusercontent.com/your-username/your-repo/main/assets/products/jacket.jpg",
-            "alt": "Black Jacket",
-            "title": "Black Jacket"
-        },
-        {
-            "src": "https://raw.githubusercontent.com/your-username/your-repo/main/assets/products/shoes.jpg",
-            "alt": "Brown Shoes",
-            "title": "Brown Shoes"
+            "title": "t shirt",
+            "price": "20$",
+            "colors": [
+                {
+                    "name": "Black",
+                    "main": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/blackShirt.jpg",
+                    "sub": [
+                        "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/blackShirt.jpg",
+                        "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/blackShirt.jpg"
+                    ]
+                },
+                {
+                    "name": "Blue",
+                    "main": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/blueShirt.jpg",
+                    "sub": [
+                        "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/blueShirt.jpg",
+                        "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/blueShirt.jpg"
+                    ]
+                },
+                {
+                    "name": "Gray",
+                    "main": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/grayShirt.jpg",
+                    "sub": [
+                        "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/grayShirt.jpg",
+                        "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/grayShirt.jpg"
+                    ]
+                },
+                {
+                    "name": "Green",
+                    "main": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/greenShirt.jpg",
+                    "sub": [
+                        "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/greenShirt.jpg",
+                        "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/greenShirt.jpg"
+                    ]
+                },
+                {
+                    "name": "Yellow",
+                    "main": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/yellowShirt.jpg",
+                    "sub": [
+                        "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/yellowShirt.jpg",
+                        "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/yellowShirt.jpg"
+                    ]
+                }
+            ]
         }
     ],
     "about": [
