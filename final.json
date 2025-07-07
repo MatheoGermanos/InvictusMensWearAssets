@@ -68,6 +68,7 @@
         {
             "title": "t shirt",
             "price": "20$",
+            "description": "Premium cotton T shirt, available in multiple colors. Comfortable, stylish, and perfect for any occasion.",
             "colors": [
                 {
                     "name": "Black",
