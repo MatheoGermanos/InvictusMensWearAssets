@@ -141,5 +141,12 @@
             "alt": "Tiktok",
             "title": "Tiktok"
         }
+    ],
+    "address": [
+        {
+            "src": "https://maps.app.goo.gl/rrvHpnn6kHGxPApj9",
+            "alt": "address",
+            "title": "Kaslik Shopping St"
+        }
     ]
 }
