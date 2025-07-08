@@ -145,6 +145,11 @@
             "src": "https://maps.app.goo.gl/rrvHpnn6kHGxPApj9",
             "alt": "address",
             "title": "Kaslik Shopping St"
+        },
+        {
+            "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3149.0366959590006!2d35.6167991!3d33.9815628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f41003ae299b7%3A0xd4f9e086fae48fdb!2sinvictus!5e1!3m2!1sen!2slb!4v1751956789849!5m2!1sen!2slb",
+            "alt": "address",
+            "title": "Invictus Menswear Location on Google Maps"
         }
     ]
 }
