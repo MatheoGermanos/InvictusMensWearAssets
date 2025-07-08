@@ -56,13 +56,11 @@
                 "title": "Box 3"
             }
         ],
-        "homeItem2": [
-            {
-                "src": "https://picsum.photos/id/1015/600/400",
-                "alt": "Other Image 4",
-                "title": "Other 4"
-            }
-        ]
+        "homeItem2": {
+            "src": "https://picsum.photos/id/1015/600/400",
+            "alt": "Other Image 4",
+            "title": "Other 4"
+        }
     },
     "products": [
         {
