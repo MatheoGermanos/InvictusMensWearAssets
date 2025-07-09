@@ -126,6 +126,22 @@
                     ]
                 }
             ]
+        },
+        {
+            "title": "BOSS Jeans",
+            "price": "45$",
+            "description": "Premium jeans, available in multiple colors. Comfortable, stylish, and perfect for any occasion.",
+            "category": "pants",
+            "colors": [
+                {
+                    "name": "Blue",
+                    "main": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/jeansExample.jpg",
+                    "sub": [
+                        "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/jeansExample.jpg",
+                        "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/jeansExample.jpg"
+                    ]
+                }
+            ]
         }
     ],
     "about": [
