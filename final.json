@@ -110,6 +110,22 @@
                     ]
                 }
             ]
+        },
+        {
+            "title": "INVICTUS Suit",
+            "price": "200$",
+            "description": "Premium suit, available in multiple colors. Comfortable, stylish, and perfect for any occasion.",
+            "category": "suits",
+            "colors": [
+                {
+                    "name": "Black",
+                    "main": "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/suitExample.jpg",
+                    "sub": [
+                        "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/suitExample.jpg",
+                        "https://raw.githubusercontent.com/MatheoGermanos/InvictusMensWearAssets/master/suitExample.jpg"
+                    ]
+                }
+            ]
         }
     ],
     "about": [
