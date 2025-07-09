@@ -67,6 +67,7 @@
             "title": "t shirt",
             "price": "20$",
             "description": "Premium cotton T shirt, available in multiple colors. Comfortable, stylish, and perfect for any occasion.",
+            "category": "shirt",
             "colors": [
                 {
                     "name": "Black",
@@ -151,5 +152,6 @@
             "alt": "address",
             "title": "Invictus Menswear Location on Google Maps"
         }
-    ]
+    ],
+    "categories": ["shirts", "pants", "suits"]
 }
